@@ -1,4 +1,5 @@
 local wibox = require("wibox")
+local naughty = require("naughty")
 local timer = timer
 local io = io
 local string = string
